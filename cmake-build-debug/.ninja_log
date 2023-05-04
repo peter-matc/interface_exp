@@ -1,0 +1,16 @@
+# ninja log v5
+26	204	7049006032342877	CMakeFiles/interface_exp.dir/main.cpp.obj	f4adeb1ff0edcc5d
+6	68	7049011880616851	CMakeFiles/interface_exp.dir/Test01/Test01.cpp.obj	6a3c3bb463970bcc
+0	369	7049011883631932	CMakeFiles/interface_exp.dir/Test01/Test02.cpp.obj	5cb98edb3ee959fe
+370	659	7049011886489397	interface_exp.exe	9e0e0ce97c285604
+3	67	7049012405331715	CMakeFiles/interface_exp.dir/Test01/Test02.cpp.obj	5cb98edb3ee959fe
+10	386	7049012408518883	CMakeFiles/interface_exp.dir/Test01/Test01.cpp.obj	6a3c3bb463970bcc
+386	499	7049012409619676	interface_exp.exe	9e0e0ce97c285604
+2	330	7049012489642285	CMakeFiles/interface_exp.dir/Test01/Test01.cpp.obj	6a3c3bb463970bcc
+331	442	7049012490717349	interface_exp.exe	9e0e0ce97c285604
+6	815	7049065456217523	CMakeFiles/interface_exp.dir/Test01/Test01.cpp.obj	6a3c3bb463970bcc
+816	1303	7049065461020106	interface_exp.exe	9e0e0ce97c285604
+3	348	7049069095111036	CMakeFiles/interface_exp.dir/Test01/Test01.cpp.obj	6a3c3bb463970bcc
+349	484	7049069096424924	interface_exp.exe	9e0e0ce97c285604
+5	474	7049069699240100	CMakeFiles/interface_exp.dir/Test01/Test01.cpp.obj	6a3c3bb463970bcc
+474	617	7049069700653391	interface_exp.exe	9e0e0ce97c285604
