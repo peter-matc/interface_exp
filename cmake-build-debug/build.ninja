@@ -67,6 +67,36 @@ build CMakeFiles/interface_exp.dir/Test01/Test02.cpp.obj: CXX_COMPILER__interfac
   OBJECT_DIR = CMakeFiles\interface_exp.dir
   OBJECT_FILE_DIR = CMakeFiles\interface_exp.dir\Test01
 
+build CMakeFiles/interface_exp.dir/Test01/PolyTest.cpp.obj: CXX_COMPILER__interface_exp_Debug D$:/clion_file/interface_exp/Test01/PolyTest.cpp || cmake_object_order_depends_target_interface_exp
+  DEP_FILE = CMakeFiles\interface_exp.dir\Test01\PolyTest.cpp.obj.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\interface_exp.dir
+  OBJECT_FILE_DIR = CMakeFiles\interface_exp.dir\Test01
+
+build CMakeFiles/interface_exp.dir/Test01/Test03.cpp.obj: CXX_COMPILER__interface_exp_Debug D$:/clion_file/interface_exp/Test01/Test03.cpp || cmake_object_order_depends_target_interface_exp
+  DEP_FILE = CMakeFiles\interface_exp.dir\Test01\Test03.cpp.obj.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\interface_exp.dir
+  OBJECT_FILE_DIR = CMakeFiles\interface_exp.dir\Test01
+
+build CMakeFiles/interface_exp.dir/Test01/TEst05.cpp.obj: CXX_COMPILER__interface_exp_Debug D$:/clion_file/interface_exp/Test01/TEst05.cpp || cmake_object_order_depends_target_interface_exp
+  DEP_FILE = CMakeFiles\interface_exp.dir\Test01\TEst05.cpp.obj.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\interface_exp.dir
+  OBJECT_FILE_DIR = CMakeFiles\interface_exp.dir\Test01
+
+build CMakeFiles/interface_exp.dir/Test01/TEst04.cpp.obj: CXX_COMPILER__interface_exp_Debug D$:/clion_file/interface_exp/Test01/TEst04.cpp || cmake_object_order_depends_target_interface_exp
+  DEP_FILE = CMakeFiles\interface_exp.dir\Test01\TEst04.cpp.obj.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\interface_exp.dir
+  OBJECT_FILE_DIR = CMakeFiles\interface_exp.dir\Test01
+
+build CMakeFiles/interface_exp.dir/Test01/Test06.cpp.obj: CXX_COMPILER__interface_exp_Debug D$:/clion_file/interface_exp/Test01/Test06.cpp || cmake_object_order_depends_target_interface_exp
+  DEP_FILE = CMakeFiles\interface_exp.dir\Test01\Test06.cpp.obj.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\interface_exp.dir
+  OBJECT_FILE_DIR = CMakeFiles\interface_exp.dir\Test01
+
 
 # =============================================================================
 # Link build statements for EXECUTABLE target interface_exp
@@ -75,7 +105,7 @@ build CMakeFiles/interface_exp.dir/Test01/Test02.cpp.obj: CXX_COMPILER__interfac
 #############################################
 # Link the executable interface_exp.exe
 
-build interface_exp.exe: CXX_EXECUTABLE_LINKER__interface_exp_Debug CMakeFiles/interface_exp.dir/main.cpp.obj CMakeFiles/interface_exp.dir/Test01/Test01.cpp.obj CMakeFiles/interface_exp.dir/Test01/Test02.cpp.obj
+build interface_exp.exe: CXX_EXECUTABLE_LINKER__interface_exp_Debug CMakeFiles/interface_exp.dir/main.cpp.obj CMakeFiles/interface_exp.dir/Test01/Test01.cpp.obj CMakeFiles/interface_exp.dir/Test01/Test02.cpp.obj CMakeFiles/interface_exp.dir/Test01/PolyTest.cpp.obj CMakeFiles/interface_exp.dir/Test01/Test03.cpp.obj CMakeFiles/interface_exp.dir/Test01/TEst05.cpp.obj CMakeFiles/interface_exp.dir/Test01/TEst04.cpp.obj CMakeFiles/interface_exp.dir/Test01/Test06.cpp.obj
   FLAGS = -g
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
   OBJECT_DIR = CMakeFiles\interface_exp.dir
